@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is part of [Guess-What-You-Draw Web Game](https://github.com/WatcharitNew/Guess-What-You-Draw) and aim to deveplop model for classifying [50 categories](https://github.com/ThreeTeaTree/Guess-What-You-Draw-Doodles-Classifier/blob/main/doodleDataset/50classList.txt) of doodle image that use to guess what player draw in the game.
+This project is part of [Guess-What-You-Draw Web Game](https://github.com/WatcharitNew/Guess-What-You-Draw) and aim to develop model for classifying [50 categories](https://github.com/ThreeTeaTree/Guess-What-You-Draw-Doodles-Classifier/blob/main/doodleDataset/50classList.txt) of doodle image that use to guess what player draw in the game.
 
 ## Dataset
 
